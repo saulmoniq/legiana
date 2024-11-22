@@ -1,0 +1,75 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+body{
+  margin-right: 1%;
+}
+
+.title{
+  color: white;
+  font-size: 24px;
+}
+
+h2{
+  font-size: 20px!important;
+}
+
+.banner {
+    color: white;
+    font-family: "Quicksand", sans-serif;
+    background: url('http://bigsales.es/wp-content/uploads/2023/03/bg1.webp') top left/cover no-repeat;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .FlexContainer {
+    display: flex;
+    padding: 10px;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items:center;
+    align-content: center;
+    width: 100%;
+    height: auto;
+    overflow: auto;
+    flex-direction: row;
+    margin-bottom: 40px;
+}
+.lista{
+list-style-type: none;
+  font-size: 15px;
+  font-weight: 800;
+  color: #000;
+  padding: 2px;
+}
+
+h3{
+  font-size: 16px!important;
+  color: #000;
+  font-weight: 600;
+}
+
+h3 span {
+  font-weight: 800;
+  color: #E52326;
+}
+
+.col-md-4{
+  padding: 20px;
+}
+
+.FlexContainer div {
+  margin-bottom: 30px;
+    margin: 5px;
+    padding: 10px;
+    border: solid;
+    border-width: 2px;
+    border-color: #E52326;
+    border-radius: 25px;
+}
+
+.iconsize{
+  font-size: 30px;
+}
