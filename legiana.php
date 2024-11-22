@@ -1,11 +1,11 @@
 <?php
 /*
     * Plugin name: Legiana
-    * Plugin URI: https://bigsales.es
+    * Plugin URI: https://saulmoniquedev.com
     * Description: Cambia las categorías de tu tienda por una selección personal.
     * Versión: 1.0
     * Author: Saúl Monique
-    * Author URI: BIGsales
+    * Author URI: https://saulmoniquedev.com
     * License: Todos los derechos reservados.
 */
 // main-file.php
